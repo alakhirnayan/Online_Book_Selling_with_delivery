@@ -151,16 +151,6 @@ http://localhost/bookstore/
 
 ---
 
-## 📸 Screenshots (Optional)
-
-> Replace these links with actual images or embed screenshots
-
-* ![Homepage](screenshots/home.png)
-* ![Book Details](screenshots/book-details.png)
-* ![Admin Panel](screenshots/admin.png)
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License** — free for personal, educational, and commercial use with attribution.
